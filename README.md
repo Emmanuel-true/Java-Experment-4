@@ -97,8 +97,8 @@ public interface teacherManage {
 ---
 
 ## 4.图
-![]()
-![]()
+![流程图](https://github.com/Emmanuel-true/Java-Experment-4/blob/main/Screenshot%202020-11-09%20055559.png)
+![包图](https://github.com/Emmanuel-true/Java-Experment-4/blob/main/Package%20university.png)
 
 ---
 
