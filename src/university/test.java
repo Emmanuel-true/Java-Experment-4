@@ -3,10 +3,12 @@ import java.util.*;
 
 public class test {
     public static void main(String[] args){
+        //new two student
         doctoralStudent ds1 = new doctoralStudent("emmanuel","man",28);
         doctoralStudent ds2 = new doctoralStudent("asia","women",27);
 
         try{
+            //Scanner input
             Scanner a = new Scanner(System.in);
             System.out.println("请输入第一位博士研究生的工资");
             ds1.setSalary(a.nextDouble());
@@ -17,6 +19,7 @@ public class test {
             System.out.println("请输入第二位博士研究生的学费");
             ds2.setFee(a.nextDouble());
         }catch (NumberFormatException a){
+            //Exception use
             System.out.println("math only");
         }
 
