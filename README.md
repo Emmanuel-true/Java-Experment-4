@@ -121,7 +121,6 @@ public interface teacherManage {
 
 1. 头一次写计算税的算法卡了很长时间，~~可能现在还没写对~~
 2. 好久没用scanner了，卡了一段时间
-3. 这个项目我感觉用JavaScript可能更好写
 
 
 
